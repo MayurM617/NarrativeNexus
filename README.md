@@ -1,4 +1,5 @@
 NarrativeNexus – Dynamic Text Analysis Platform
+
 📖 Overview
 
 NarrativeNexus is a dynamic and scalable Text Analytics and Natural Language Processing (NLP) platform designed to transform unstructured textual data into actionable intelligence. The system processes large volumes of text such as documents, articles, and user-generated content, enabling users to quickly extract themes, sentiments, summaries, and meaningful insights to support informed decision-making.
